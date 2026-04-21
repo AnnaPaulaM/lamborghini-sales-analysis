@@ -35,8 +35,8 @@ Este projeto é dividido em duas principais partes:
 │<br />
 └── README.md<br />
 
-O EDA está disponível no repositório na pasta '/notebooks' e contém o processo completo de análise, incluindo limpeza de dados, exploração e geração de insights.
-O dashboard interativo em Power BI está disponível na pasta '/dashboard' e foi desenvolvido para visualização dinâmica dos principais insights, permitindo análises por diferentes dimensões de negócio.
+O EDA está disponível no repositório na pasta '/notebooks' e contém o processo completo de análise, incluindo limpeza de dados, exploração e geração de insights.<br />
+O dashboard interativo em Power BI está disponível na pasta '/dashboard' e foi desenvolvido para visualização dinâmica dos principais insights, permitindo análises por diferentes dimensões de negócio.<br />
 
 
 ## :black_circle: Dataset
@@ -134,8 +134,8 @@ Este projeto é dividido em duas principais partes:
 │<br />
 └── README.md<br />
 
-The EDA is available in the repository under the '/notebooks' folder and contains the full analysis process, including data cleaning, exploration, and insight generation.
-The interactive Power BI dashboard is available in the '/dashboard' folder and was developed to provide dynamic visualization of key insights, enabling analysis across different business dimensions.
+The EDA is available in the repository under the '/notebooks' folder and contains the full analysis process, including data cleaning, exploration, and insight generation.<br />
+The interactive Power BI dashboard is available in the '/dashboard' folder and was developed to provide dynamic visualization of key insights, enabling analysis across different business dimensions.<br />
 
 
 ## :black_circle: Dataset
