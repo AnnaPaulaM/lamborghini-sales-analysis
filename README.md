@@ -41,11 +41,14 @@ Para ajudar na visualização do projeto, foi construído um dashboard interativ
 Algumas imagens do dashboard podem ser observadas a seguir, o arquivo .pbix também pode ser obtido neste repositório.
 
 ### Visão Geral do dashboard
-Visão panorâmica e geral do dashboard.
+Visão panorâmica e geral do dashboard.<br />
+![Overview](images/overview.png)<br />
 
 
 ### Análises focadas das vendas
-Visão mais ampla dos gráficos que são focados nas vendas e receita da empresa.
+Visão mais ampla dos gráficos que são focados nas vendas e receita da empresa.<br />
+![Gráficos 1](images/analysis1.png)<br />
+![Gráficos 2](images/analysis2.png)<br />
 
 Para este dashboard foram utilizadas as cores preto e dourado, utilizando um modelo minimalista, design adotado pela empresa Lamborghini a partir de 2024.
 
@@ -126,12 +129,18 @@ To support data visualization, a Power BI dashboard was developed. It enables in
 
 Some dashboard images are shown below. The .pbix file is also available in this repository.
 
+* The dashboard is available in Portuguese (PT-BR), as the dataset and analysis were focused on the Brazilian market.
 
 ### Dashboard Overview
-High-level view of the dashboard, presenting key metrics and overall performance.
+High-level view of the dashboard, presenting key metrics and overall performance.<br />
+![Overview](images/overview.png)<br />
 
 ### Sales Analysis
-Detailed view of sales and revenue, focusing on key patterns and trends.
+Detailed view of sales and revenue, focusing on key patterns and trends.<br />
+![Gráficos 1](images/analysis1.png)<br />
+![Gráficos 2](images/analysis2.png)<br />
+
+* Dashboard language: Portuguese (PT-BR)
 
 The dashboard follows a black and gold color scheme with a minimalist design, inspired by Lamborghini’s visual identity since 2024.
 
