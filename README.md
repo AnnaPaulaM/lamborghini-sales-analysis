@@ -25,7 +25,7 @@ O dataset utilizado concentra dados das vendas dos carros entre os anos de 2020 
 
 Dentre outras colunas.
 
-Este dataset foi obtido no site Kaggle, através do link https://www.kaggle.com/datasets/zahranusratt/lamborghini-global-sales-dataset-20202025 e também pode ser obtido aqui neste repositório aqui. 
+Este dataset foi obtido no site Kaggle, através do link https://www.kaggle.com/datasets/zahranusratt/lamborghini-global-sales-dataset-20202025 e também pode ser obtido neste repositório. 
 
 
 ## :black_circle: Insights
@@ -79,7 +79,7 @@ Esta análise aponta que a receita da empresa depende fortemente de alguns pouco
 ## :black_circle: Contato
 Sinta-se à vontade para me contatar para novas oportunidades ou para dar feedback!
 
-LinkedIn: Inserir link
+LinkedIn: [Aqui](https://www.linkedin.com/in/anna-paula-mendes-04737a224/)<br />
 Email: m_annapaula@yahoo.com.br
 
 --------------------------------------------------------------------------------
@@ -167,5 +167,5 @@ This analysis shows that the company’s revenue is highly concentrated in a few
 
 Feel free to reach out for opportunities or feedback.
 
-LinkedIn: Inserir link
+LinkedIn: [Aqui](https://www.linkedin.com/in/anna-paula-mendes-04737a224/)<br />
 Email: m_annapaula@yahoo.com.br
