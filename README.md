@@ -10,9 +10,33 @@
 🇺🇸 English version below
 
 --------------------------------------------------------------------------------
+## 🇧🇷 Versão em Português
 ## :black_circle: Objetivo
 
 Este projeto analisa os dados de vendas da Lamborghini para identificar os principais drivers de receita, padrões de vendas e tendências de mercado.
+
+
+## :black_circle: Estrutura do Projeto
+
+Este projeto é dividido em duas principais partes:
+
+- Análise Exploratória de Dados (EDA)
+- Dashboard Interativo
+
+│<br />
+├── notebooks/<br />
+│ └── lamborghini-sales-analysis.ipynb<br />
+│<br />
+├── dashboard/<br />
+│ └── dashboard.pbix<br />
+│<br />
+├── images/<br />
+│ └── *.png<br />
+│<br />
+└── README.md<br />
+
+O EDA está disponível no repositório na pasta '/notebooks' e contém o processo completo de análise, incluindo limpeza de dados, exploração e geração de insights.
+O dashboard interativo em Power BI está disponível na pasta '/dashboard' e foi desenvolvido para visualização dinâmica dos principais insights, permitindo análises por diferentes dimensões de negócio.
 
 
 ## :black_circle: Dataset
@@ -25,7 +49,9 @@ O dataset utilizado concentra dados das vendas dos carros entre os anos de 2020 
 
 Dentre outras colunas.
 
-Este dataset foi obtido no site Kaggle, através do link https://www.kaggle.com/datasets/zahranusratt/lamborghini-global-sales-dataset-20202025 e também pode ser obtido neste repositório. 
+Este dataset foi obtido no site Kaggle, através do link https://www.kaggle.com/datasets/zahranusratt/lamborghini-global-sales-dataset-20202025 
+
+Também está disponível neste repositório. 
 
 
 ## :black_circle: Insights
@@ -61,20 +87,6 @@ Na construção deste projeto foram utilizados:
 - Jupyter Notebook
 
 
-## :black_circle: Estrutura do Projeto
-│<br />
-├── notebooks/<br />
-│ └── lamborghini-sales-analysis.ipynb<br />
-│<br />
-├── dashboard/<br />
-│ └── dashboard.pbix<br />
-│<br />
-├── images/<br />
-│ └── *.png<br />
-│<br />
-└── README.md<br />
-
-
 ## :black_circle: Conclusão
 Esta análise aponta que a receita da empresa depende fortemente de alguns poucos modelos de carro e está concentrada em duas regiões de vendas. Além disso, aponta uma tendência de mudança no mercado para carros híbrido-elétricos.
 
@@ -93,10 +105,37 @@ Email: m_annapaula@yahoo.com.br
 #### Anna Paula Viana Campelo Mendes
 ##### Data Analyst
 
+------------------------------------------------------------------------------
 
+
+## 🇺🇸 English Version
 ## :black_circle: Objective
 
 This project analyzes Lamborghini sales data to identify revenue drivers, sales patterns, and market trends.
+
+
+
+## :black_circle: Project Structure
+
+Este projeto é dividido em duas principais partes:
+
+- Exploratory Data Analysis (EDA)
+- Interactive dashboard
+
+│<br />
+├── notebooks/<br />
+│ └── lamborghini-sales-analysis.ipynb<br />
+│<br />
+├── dashboard/<br />
+│ └── dashboard.pbix<br />
+│<br />
+├── images/<br />
+│ └── *.png<br />
+│<br />
+└── README.md<br />
+
+The EDA is available in the repository under the '/notebooks' folder and contains the full analysis process, including data cleaning, exploration, and insight generation.
+The interactive Power BI dashboard is available in the '/dashboard' folder and was developed to provide dynamic visualization of key insights, enabling analysis across different business dimensions.
 
 
 ## :black_circle: Dataset
@@ -152,19 +191,6 @@ The following tools were used in this project:
 - Power BI 
 - Jupyter Notebook
 
-
-## :black_circle: Project Structure
-│<br />
-├── notebooks/<br />
-│ └── lamborghini-sales-analysis.ipynb<br />
-│<br />
-├── dashboard/<br />
-│ └── dashboard.pbix<br />
-│<br />
-├── images/<br />
-│ └── *.png<br />
-│<br />
-└── README.md<br />
 
 
 ## :black_circle: Conclusion
