@@ -1,3 +1,12 @@
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Lamborghini%20Sales%20Analysis-blue?logo=github)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F1C912?logo=powerbi&logoColor=000)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![EDA Project](https://img.shields.io/badge/EDA-Data%20Analysis-green)](#)
+
+
 # Análise de Vendas Lamborghini (2020–2025)
 ------------------------------------------------------------------------------
 
